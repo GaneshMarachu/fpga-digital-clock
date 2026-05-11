@@ -62,3 +62,7 @@ The project was simulated and verified using EDA Playground before hardware impl
 
 ## Author
 Ganesh Marachu
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/cc00d769-d060-4ac5-83d4-11b0c08ac271" />
+<img width="900" height="1600" alt="Image" src="https://github.com/user-attachments/assets/8b8fd29d-c8a3-4104-a160-5833ec493587" />
+<img width="900" height="1600" alt="Image" src="https://github.com/user-attachments/assets/dda9e450-87e0-4f8f-a51f-1ffda1a87d68" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/2ca63134-9260-4fbd-9375-6aac3c"/>
